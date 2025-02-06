@@ -10,8 +10,8 @@ PostgreSQL (для хранения данных о пользователях �
 Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Maksimnp/TelegramBot_AI.git
+cd TelegramBot_AI
 Создайте виртуальное окружение:
 
 python -m venv venv
