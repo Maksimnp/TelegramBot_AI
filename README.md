@@ -30,6 +30,7 @@ POSTGRES_PASSWORD=your_postgres_password
 POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
 POSTGRES_DB=your_database_name
+
 Настройте базу данных:
 Создайте базу данных PostgreSQL и примените миграции (если они есть).
 Настройка
